@@ -27,7 +27,7 @@ Evgeny Kurbatov (IoA Cambridge),
 Shourya Khanna (INAF-Torino), 
 Semyeong Oh (IoA Cambridge),
 
-## Members
+### Members
 
 Anthony Brown (Leiden, PI), 
 Vasily Belokurov (IoA Cambridge), 
