@@ -9,6 +9,10 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
+# Who is In, and Who is Not? Determining the Gaia Survey Selection Function
+
+<img src="m10-completeness-G21-aitoff-500.png" class="center"/>
+
 GaiaUnlimited aims at determining the Gaia survey selection function and providing corresponding data and tools. The GaiaUnlimited project was started at the [2019 Santa Barbara Gaia Sprint](http://gaia.lol/2019SB.html), hosted by the Kavli Institute for Theoretical Physics at the University of California, Santa Barbara.
 
 This project was funded from 2020-01-01 to 2024-09-30 through the European Union's Horizon 2020 research and innovation program under grant agreement No 101004110.
